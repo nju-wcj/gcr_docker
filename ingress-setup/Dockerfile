@@ -1,1 +1,1 @@
-FROM grc.io/kubeflow-images-public/ingress-setup
+FROM gcr.io/kubeflow-images-public/ingress-setup
